@@ -1,0 +1,18 @@
+.bg-deep-blue .moto {
+  color: #ffffff;
+  text-align: center;
+}
+
+.order-btn {
+  background-color: #4d5ae5;
+  color: #ffffff;
+  cursor: pointer;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+}
+
+.order-btn:hover,
+.order-btn:focus {
+  background-color: #404bbf;
+}

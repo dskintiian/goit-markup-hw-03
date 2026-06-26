@@ -1,0 +1,11 @@
+.bg-grey {
+  background-color: #f4f4fd;
+}
+
+.bg-grey ul.team-members li {
+  background-color: #ffffff;
+}
+
+.team-member {
+  line-height: 1.2;
+}

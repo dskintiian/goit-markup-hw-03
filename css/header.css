@@ -1,0 +1,24 @@
+a.nav-link {
+  text-decoration: none;
+  letter-spacing: 0.02em;
+  font-size: 16px;
+  font-style: normal;
+  line-height: 1.5;
+}
+
+a.nav-link:hover,
+li a.nav-link:focus,
+li a.nav-link:active {
+  color: #404bbf;
+}
+
+.nav-menu li a.nav-link {
+  font-weight: 500;
+  font-size: 16px;
+  color: #2e2f42;
+}
+
+.contact-menu li a.nav-link {
+  font-weight: 400;
+  color: #434455;
+}
