@@ -22,3 +22,19 @@ li a.nav-link:active {
   font-weight: 400;
   color: #434455;
 }
+
+.header-container {
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+}
+
+.nav-menu,
+.contact-menu {
+  gap: 40px;
+}
+
+.nav-menu li {
+  padding-top: 24px;
+  padding-bottom: 24px;
+}

@@ -1,4 +1,10 @@
+.hero-section {
+  padding: 188px 0;
+}
+
 .bg-deep-blue .moto {
+  margin: 0 auto;
+  width: 700px;
   color: #ffffff;
   text-align: center;
 }
@@ -10,9 +16,18 @@
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  padding: 16px 32px;
+  max-width: 169px;
+  border-radius: 4px;
 }
 
 .order-btn:hover,
 .order-btn:focus {
   background-color: #404bbf;
+}
+
+.hero-container {
+  flex-direction: column;
+  gap: 48px;
+  align-items: center;
 }

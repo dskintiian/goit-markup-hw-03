@@ -1,3 +1,10 @@
-ul.features-list li h3 {
+.features-list {
+  justify-content: space-between;
+  align-items: stretch;
+  flex-direction: row;
+  gap: 8px;
+}
+
+.features-list li h3 {
   line-height: 1.2;
 }

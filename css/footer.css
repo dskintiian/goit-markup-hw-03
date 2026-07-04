@@ -1,3 +1,13 @@
+.footer-section {
+  padding: 100px 0;
+}
+
+.footer-left {
+  max-width: 264px;
+  gap: 16px;
+  flex-direction: column;
+}
+
 .logo.footer {
   color: #f4f4fd;
 }
