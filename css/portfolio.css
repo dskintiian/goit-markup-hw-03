@@ -4,14 +4,9 @@
 }
 
 .portfolio-list {
-  gap: 24px;
+  gap: 48px 24px;
   display: flex;
   flex-wrap: wrap;
-}
-
-.portfolio-list li {
-  display: block;
-  margin-bottom: 24px;
 }
 
 .portfolio-item {
