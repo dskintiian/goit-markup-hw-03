@@ -2,9 +2,15 @@
   justify-content: space-between;
   align-items: stretch;
   flex-direction: row;
-  gap: 8px;
+  gap: 24px;
+}
+
+.features-list li {
+  display: block;
+  width: calc(100% / 4 - 18px);
 }
 
 .features-list li h3 {
   line-height: 1.2;
+  margin-bottom: 8px;
 }

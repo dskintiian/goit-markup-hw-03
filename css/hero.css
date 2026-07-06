@@ -4,12 +4,13 @@
 
 .bg-deep-blue .moto {
   margin: 0 auto;
-  width: 700px;
+  width: 496px;
   color: #ffffff;
   text-align: center;
 }
 
 .order-btn {
+  border: none;
   background-color: #4d5ae5;
   color: #ffffff;
   cursor: pointer;
